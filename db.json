@@ -1,9 +1,9 @@
 {
-    "message": "Charterer for Cargo GRAIN flagged for Sanctions Activity and Low Rating. Update or reach out to the Compliance Team for Approval.",
-    "alertType": "PermanentWarning",
     "displayFields": [
         { "label": "Client Rating", "value": "C" },
         { "label": "Sanctions Activity", "value": "True - Subsidiary" },
         { "label": "Last Reviewed", "value": "1st September 2022" }
-    ]
+    ],
+    "message": "Charterer for Cargo GRAIN flagged for Sanctions Activity and Low Rating. Update or reach out to the Compliance Team for Approval.",
+    "alertType": "PermanentWarning"
 }
