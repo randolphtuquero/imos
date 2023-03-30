@@ -1,36 +1,14 @@
-[
-  {
-	"message": "Charterer for Cargo GRAIN flagged for Sanctions Activity and Low Rating. Update or reach out to the Compliance Team for Approval.",
-	"alertType": "PermanentWarning",
-	"mutation": {
-		"estimateItineraries": {
-			"speed": 13.4,
-			"voyageEstimateBunkers": [
-				{
-					"fuelType": "LSF",
-					"departureQty": 175
-				},
-				{
-					"fuelType": "LSG",
-					"departureQty": 52.85
-				}
-				]
-		}
-	},
-	"displayFields": [
-		{
-			"label": "Client Rating",
-			"value":"C"
-		},
-		{
-			"label": "Sanctions Activity",
-			"value":"True - Subsidiary"
-		},
-		{
-			"label": "Last Reviewed",
-			"value":"1st September 2022"
-		}
-	],
-    "link": "https://www.google.com/maps"
+{
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
   }
-]
+}
