@@ -1,4 +1,5 @@
 {
+    "message": "Sample Message",
     "displayFields": [
       {
         "label": "Client Rating",
